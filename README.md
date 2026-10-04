@@ -23,7 +23,7 @@ ${\color{#fffff}{\textsf Int}} \color{#fffff}{\textsf{always}} \color{#fffff
 <br/>
 <br/>
 
-<p align="left"> Art is by Leker /oomf
+<sub> Art is by ִֶָ...𓂃 ࣪ ִֶָ་༘࿐ <sub>[Leker](https://github.com/FLORAISONS)</sub> </sub>
 
 <br/>
 <br/> 
