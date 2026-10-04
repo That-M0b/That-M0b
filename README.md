@@ -5,7 +5,7 @@
 
 
 
-<img width="400" src="" alt="fat short enderman" align="right" width="300"/></p>
+<img width="400" src="https://github.com/That-M0b/.mob/blob/3857d5d0ca07cd0f6a6ff2c696b3ef8d81769bd0/Untitled640_20261004204719.png" alt="fat short enderman" align="right" width="300"/></p>
 
 
 
