@@ -1,4 +1,4 @@
-<img width="640" src="" alt="wip too" align="right" width="600"/></p>
+<img width="640" src="" alt="" align="right" width="600"/></p>
 
 [![Endermans](https://hits.sh/github.com/That-M0b.svg?style=plastic&label=(%5E%CF%89%5E)%20%E2%99%AA&extraCount=1000&color=fffff&labelColor=00000)](https://hits.sh/github.com/That-M0b/)
 
@@ -21,7 +21,12 @@ ${\color{#fffff}{\textsf  (˶' ꒳ '˶)}} \color{#fffff}{\textsf{Mob}} \colo
 
 ${\color{#fffff}{\textsf Int}} \color{#fffff}{\textsf{always}} \color{#fffff}{\textsf{unless}}  \color{#fffff}{\textsf{with bf}}$
 <br/>
+<br/>
 
+<p align="left"> Art is by Leker /oomf
+
+<br/>
+<br/> 
 <p align="center">${\textsf{\color{#fffff} Basic dni}}$ 
 
 ${\color{#fffff}{\textsf With}} \color{#fffff}{\textsf{my}} \color{#fffff}{\textsf{partner}}  \color{#fffff}{\textsf{mostly}}$
