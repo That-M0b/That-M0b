@@ -1,11 +1,11 @@
-<img width="640" src="" alt="wip" align="right" width="600"/></p>
+<img width="640" src="" alt="wip too" align="right" width="600"/></p>
 
 [![Hits](https://hits.sh/github.com/That-M0b.svg?style=plastic&label=(%5E%CF%89%5E)%20%E2%99%AA&extraCount=1000&color=fffff&labelColor=00000)](https://hits.sh/github.com/That-M0b/)
 
 
 
 
-<img width="400" src="" alt="wip" align="right" width="300"/></p>
+<img width="400" src="https://github.com/That-M0b/That-M0b/blob/63c9bc176d2900cde6063ffd0e62fa3d10db7fc7/Untitled86_20261004043808.png" alt="wip" align="right" width="300"/></p>
 
 
 
