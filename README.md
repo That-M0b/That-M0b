@@ -5,7 +5,7 @@
 
 
 
-<img width="400" src="" alt="wip" align="left" width="300"/></p>
+<img width="400" src="" alt="wip" align="right" width="300"/></p>
 
 
 
@@ -19,7 +19,7 @@ ${\textsf{\color{#fffff} ( ˃ w ˂˵)⠀⠀ ⠀ ⠀✦}}$
 ${\color{#fffff}{\textsf  (˶' ꒳ '˶)}} \color{#fffff}{\textsf{Mob}} \color{#fffff}{\textsf{—}}  \color{#fffff}{\textsf{Lee}}$
 <br/>
 
-${\color{#fffff}{\textsf int}} \color{#fffff}{\textsf{always}} \color{#fffff}{\textsf{unless}}  \color{#fffff}{\textsf{with bf}}$
+${\color{#fffff}{\textsf Int}} \color{#fffff}{\textsf{always}} \color{#fffff}{\textsf{unless}}  \color{#fffff}{\textsf{with bf}}$
 <br/>
 
 <p align="center">${\textsf{\color{#fffff} Basic dni}}$ 
