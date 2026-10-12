@@ -16,14 +16,14 @@ ${\textsf{\color{#fffff} ( ˃ w ˂˵)⠀⠀ ⠀ ⠀✦}}$
 ㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀
 
-${\color{#fffff}{\textsf  (˶' ꒳ '˶)}} \color{#fffff}{\textsf{Mob}} \color{#fffff}{\textsf{—}}  \color{#fffff}{\textsf{Lee}}$
+${\color{#fffff}{\textsf  (˶X - @˶)}} \color{#fffff}{\textsf{Mob}} \color{#fffff}{\textsf{—}}  \color{#fffff}{\textsf{Lee}}$
 <br/>
 
 ${\color{#fffff}{\textsf Int}} \color{#fffff}{\textsf{always}} \color{#fffff}{\textsf{unless}}  \color{#fffff}{\textsf{with bf}}$
 <br/>
 <br/>
 
-<sub> Art is by ִֶָ...𓂃 ࣪ ִֶָ་༘࿐ <sub>[Leker](https://github.com/FLORAISONS)</sub> </sub>
+<sub> Art is by ִֶָ...𓂃 ࣪ ִֶָ་༘࿐ <sub> oomf [Leker](https://github.com/FLORAISONS)</sub> </sub>
 
 <br/>
 <br/> 
@@ -38,13 +38,7 @@ ${\color{#fffff}{\textsf "⠀ Ou}} \color{#fffff}{\textsf{uu}} \color{#fffff
 <details>
  <summary> $${\color{#FFFFFF} my \space lil \space chuds \space ♡}$$</summary>
   
- (˶' ꒳ '˶)  
- <br>
-[@N0V4-B1](https://github.com/N0V4-B1) 
-<br>
-[@That-Mxb](https://github.com/That-Mxb)
-<br>
-[@deviousspoke](https://github.com/deviousspoke)
+ (˶^ _ ×˶)  
 </details>
 
 
