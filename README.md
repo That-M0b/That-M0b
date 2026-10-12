@@ -36,7 +36,7 @@ ${\color{#fffff}{\textsf "⠀ Ou}} \color{#fffff}{\textsf{uu}} \color{#fffff
 <p align="center">${\textsf{\color{#fffff} hi}}$ 
  
 <details>
- <summary> $${\color{#FFFFFF} my \space lil \space chuds \space ♡}$$</summary>
+ <summary> $${\color{#FFFFFF} getting \space ata \space sp \space soon}$$</summary>
   
  (˶^ _ ×˶)  
 </details>
